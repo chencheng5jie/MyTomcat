@@ -1,5 +1,5 @@
 # Introduction of MyTomcat
-This a simple tomcat demo
+This is a simple tomcat demo
 
 # How to test 
 1.Run main method
